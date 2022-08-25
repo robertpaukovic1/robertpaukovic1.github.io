@@ -87,7 +87,7 @@ button {
 
 #contact {
     text-align: center;
-    background-color: rgb(179, 244, 179);
+    background-color: rgb(193, 179, 244);
 
 
 }
@@ -125,7 +125,7 @@ button {
     align-items: center;
     position: relative;
     cursor: pointer;
-    background-color: rgb(179, 244, 179);
+    background-color: rgb(193, 179, 244);
     color: #111;
 }
 
